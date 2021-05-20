@@ -1,0 +1,1 @@
+# pre-commit-infected-repository
